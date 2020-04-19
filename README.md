@@ -1,2 +1,3 @@
 # Helmet-Detection
-detects helmets on people using YOLO
+Detects helmets on people using YOLO. 
+Download the weights file from the official yolov3 site
